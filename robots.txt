@@ -1,0 +1,7 @@
+# Robots.txt per fantasex.eu e i sottodomini
+
+User-agent: *
+Disallow: /private/
+Disallow: /restricted/
+
+Sitemap: https://sitemap.fantasex.eu/sitemap/sitemap_x7k92h3g_hidden.xml
